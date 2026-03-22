@@ -44,4 +44,4 @@ These projects are created for learning and improving problem-solving skills in 
 ---
 
 ## 👨‍💻 Author
-Jishnu
+Jishnu Guttula
